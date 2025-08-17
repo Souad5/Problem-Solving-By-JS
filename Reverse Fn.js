@@ -3,4 +3,4 @@ function reverse(str){
     return rev;
 }
 
-console.log(reverse("Hello World"))
+console.log(reverse("Hello"))

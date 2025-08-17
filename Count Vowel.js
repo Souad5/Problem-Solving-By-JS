@@ -9,4 +9,4 @@ function vowels(str){
     }
     return count;
 }
-console.log(vowels("Madam"))
+console.log(vowels("Education"))

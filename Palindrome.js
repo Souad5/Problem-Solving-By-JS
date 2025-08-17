@@ -4,4 +4,4 @@ function reverse(str){
     return str === rev;
 }
 
-console.log(reverse("palindrome"))
+console.log(reverse("madam"))
