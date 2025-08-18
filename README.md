@@ -104,8 +104,8 @@ Write a function that prints numbers from 1 to 20:
 
 
 
-## ✅ Example Folder Structure
-📦 javascript-problem-solving
+## ✅ Example Folder Structure </br>
+📦 javascript-problem-solving </br>
 ┣ 📜 problem1-Reverse Fn.js </br>
 ┣ 📜 problem2-count Vowels.js </br>
 ┣ 📜 problem3-Palindrome.js </br>
