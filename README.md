@@ -106,17 +106,17 @@ Write a function that prints numbers from 1 to 20:
 
 ## ✅ Example Folder Structure
 📦 javascript-problem-solving
-┣ 📜 problem1-Reverse Fn.js
-┣ 📜 problem2-count Vowels.js
-┣ 📜 problem3-Palindrome.js
-┣ 📜 problem4-max Num.js
-┣ 📜 problem5-remove Dup.js
-┣ 📜 problem6-sum All Num.js
-┣ 📜 problem7-even Num.js
-┣ 📜 problem8-capital First word.js
-┣ 📜 problem9-factorial.js
-┣ 📜 problem10-pingPong.js
-┗ 📜 README.md
+┣ 📜 problem1-Reverse Fn.js </br>
+┣ 📜 problem2-count Vowels.js </br>
+┣ 📜 problem3-Palindrome.js </br>
+┣ 📜 problem4-max Num.js </br>
+┣ 📜 problem5-remove Dup.js </br>
+┣ 📜 problem6-sum All Num.js </br>
+┣ 📜 problem7-even Num.js </br>
+┣ 📜 problem8-capital First word.js </br>
+┣ 📜 problem9-factorial.js </br>
+┣ 📜 problem10-pingPong.js </br>
+┗ 📜 README.md </br>
 
 
 ---
